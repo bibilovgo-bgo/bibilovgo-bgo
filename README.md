@@ -4,7 +4,8 @@
 
 Боты, пайплайны, автономные агенты. Не рассказываю про AI — показываю работающий код. Половина «AI-продуктов» вокруг — тонкая обёртка над чужим API; ценность в том, что система живёт без тебя: в проде, надёжно, на твоих данных.
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40bibilovgo-38bdf8?logo=telegram&logoColor=white)](https://t.me/bibilovgo)
+[![Канал](https://img.shields.io/badge/Канал-%40bibilovgo__ai-38bdf8?logo=telegram&logoColor=white)](https://t.me/bibilovgo_ai)
+[![Telegram](https://img.shields.io/badge/связь-%40bibilovgo-7dd3fc?logo=telegram&logoColor=white)](https://t.me/bibilovgo)
 [![Site](https://img.shields.io/badge/site-bibilovgo.com-0ea5e9)](https://bibilovgo.com)
 [![License](https://img.shields.io/badge/code-MIT-7dd3fc)](https://github.com/bibilovgo-bgo)
 
