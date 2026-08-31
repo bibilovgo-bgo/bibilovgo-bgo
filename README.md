@@ -13,7 +13,7 @@
 
 ## 🛰 Что показываю (proof, не нарратив)
 
-**[METAai](https://github.com/bibilovgo-bgo/metaai-organism-protocol)** — автономный AI-организм из **91 агента**, собранный соло. Событийная архитектура, самоконтроль, CI/Docker, 114K строк. Ядро-протокол — открытое.
+**[METAai](https://github.com/bibilovgo-bgo/metaai-organism-protocol)** — автономный AI-организм из **111 агентов**, собранный соло. Событийная архитектура, самоконтроль, CI/Docker, 148K строк. Ядро-протокол — открытое.
 
 **[bgo-solutions](https://github.com/bibilovgo-bgo/bgo-solutions)** — 6 продуктизированных шаблонов AI-автоматизации, **69 тестов**, deps-free ядра + боевые адаптеры:
 
